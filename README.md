@@ -6,7 +6,7 @@
 
 Visitor ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
-# 📚 Green‘s Blog
+## 📚 Green‘s Blog
 
 了解一个人，只需要了解他的文化属性，了解他的文化属性，只需要了解他的思想底色。
 
@@ -16,16 +16,18 @@ Visitor ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 
 
-# About My Github
+## About My Github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShallowGreen&layout=compact)](https://github.com/Christmas/github-readme-stats)
-
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShallowGreen&show_icons=true&theme=tokyonight)
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShallowGreen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 
 ### Frontend  
