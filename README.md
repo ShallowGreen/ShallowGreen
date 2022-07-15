@@ -2,8 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-🤔 I’m looking for Web3 and Samrt Contract Job!
-
 Visitor ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 ## 📚 Green‘s Blog
